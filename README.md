@@ -26,6 +26,9 @@ Welcome to the scrollView App repository! This is a full-stack mobile applicatio
 - Skeleton Loader: Modern loading animation for improved user experience.
 
 https://github.com/EzHook/scrollView/assets/113234585/9de27a56-e778-4c0d-95fc-ee1417e957dc
+![scrollview2](https://github.com/EzHook/scrollView/assets/113234585/a5e6a896-4ee0-459c-b99c-43d478d5f346)
+![scoreView1](https://github.com/EzHook/scrollView/assets/113234585/6bd8a1ed-5b48-48f4-a781-fd88348eca81)
+![scrollview3](https://github.com/EzHook/scrollView/assets/113234585/2e185130-1b71-4e7f-84bf-026420313c82)
 ### Contributing
 
 1. Fork the repository.
