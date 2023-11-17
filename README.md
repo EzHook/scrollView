@@ -25,6 +25,7 @@ Welcome to the scrollView App repository! This is a full-stack mobile applicatio
 - Firestore: A NoSQL cloud database by Firebase, used for storing and retrieving video data.
 - Skeleton Loader: Modern loading animation for improved user experience.
 
+https://github.com/EzHook/scrollView/assets/113234585/9de27a56-e778-4c0d-95fc-ee1417e957dc
 ### Contributing
 
 1. Fork the repository.
